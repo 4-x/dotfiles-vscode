@@ -1,0 +1,54 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": false,
+    "vetur.format.options.tabSize": 4,
+    "prettier.singleQuote": true,
+    "workbench.colorCustomizations": {
+        "editorWhitespace.foreground": "#fda0ff"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.minimap.enabled": true,
+    "workbench.colorTheme": "Default High Contrast",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "aws.samcli.location": "/usr/local/bin/sam",
+    "aws.telemetry": false,
+		"editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "json.schemas": [],
+    "search.maxResults": null,
+    "search.showLineNumbers": true,
+    "search.useIgnoreFiles": false,
+    "xml.symbols.maxItemsComputed": 50000,
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "window.zoomLevel": 1,
+    "[markdown]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "npm.keybindingsChangedWarningShown": true,
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.fontFamily": "'SF Mono', 'Comic Mono', Menlo, Monaco, 'Courier New', monospace",
+    "[typescript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+}
